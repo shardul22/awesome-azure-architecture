@@ -396,6 +396,7 @@ Community-created tools and repositories.
 - [Service Bus Explorer](https://github.com/paolosalvatori/ServiceBusExplorer)
 - [Terraform](https://www.terraform.io/)
 - [The Azure Kubernetes Service Checklist](https://www.the-aks-checklist.com/)
+- [Topaz - Local Azure environment emulation for development](https://github.com/TheCloudTheory/Topaz)
 - [Traffic Flow in Common Azure Networking Patterns](https://github.com/mattfeltonma/azure-networking-patterns)
 - [WhatTheHack-collection of hackathons](https://aka.ms/wth)
 
