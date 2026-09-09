@@ -400,6 +400,7 @@ Community-created tools and repositories.
 - [Cloud Custodian](https://cloudcustodian.io/)
 - [Cloud Native Architecture Mapbook](https://github.com/PacktPublishing/The-Azure-Cloud-Native-Architecture-Mapbook)
 - [Cloud Net Draw](https://www.cloudnetdraw.com/)
+- [CloudEval Azure ARM Review Example](https://github.com/ganakailabs/cloudeval-azure-arm-review-example)
 - [CloudPrice](https://cloudprice.net/)
 - [cmd.ms - the Microsoft Cloud command line](https://cmd.ms/)
 - [DevBox Accelerator](https://evilazaro.github.io/DevExp-DevBox/)
